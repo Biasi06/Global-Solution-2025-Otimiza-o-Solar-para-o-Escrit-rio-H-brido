@@ -11,7 +11,7 @@ O script gera o gráfico abaixo, que comprova a tese do projeto: **o pico de ger
 ---
 
 
-
+Descrição da Solução
 
 Este projeto cumpre os requisitos **Opção A (Análise de Dados)** e **Opção C (Simulação)**.
 
