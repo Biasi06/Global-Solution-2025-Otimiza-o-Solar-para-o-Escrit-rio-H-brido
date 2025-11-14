@@ -29,7 +29,7 @@ A solução é um único script Python (`Gs sers principal.py`) que executa todo
 
 ##  Dados Utilizados
 
-* **Geração Solar (Fonte Real):** O arquivo `dados/geracao_solar_pvgis.csv` contém os dados de geração de um sistema de 10kWp em São Paulo, baixados da ferramenta [PVGIS da União Europeia](https://re.jrc.ec.europa.eu/pvg_tools/en/).
+* **Geração Solar (Fonte Real):** O arquivo `geracao_solar_pvgis.csv` contém os dados de geração de um sistema de 10kWp em São Paulo, baixados da ferramenta [PVGIS da União Europeia](https://re.jrc.ec.europa.eu/pvg_tools/en/).
 * **Consumo (Fonte Simulada):** Os dados de consumo do escritório são gerados diretamente pelo script `Gs sers principal.py` para garantir que os anos correspondam.
 
 ---
