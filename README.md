@@ -1,0 +1,1 @@
+# Global-Solution-2025-Otimiza-o-Solar-para-o-Escrit-rio-H-brido
