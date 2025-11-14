@@ -1,10 +1,8 @@
 #  Global Solution 2025: Otimização Solar para o Escritório Híbrido
 
-Este projeto foi desenvolvido para a Global Solution de Ciências da Computação (2º Semestre de 2025), com foco em energias renováveis e sustentáveis.
-
 A solução analisa o impacto da instalação de painéis solares em um escritório com modelo de trabalho híbrido, demonstrando os ganhos econômicos e ambientais através da simulação e análise de dados.
 
-### 📈 Resultado Final
+###  Resultado Final
 
 O script gera o gráfico abaixo, que comprova a tese do projeto: **o pico de geração de energia solar (laranja) se alinha perfeitamente com o pico de consumo do escritório (azul) nos dias de trabalho presencial.**
 
@@ -12,7 +10,7 @@ O script gera o gráfico abaixo, que comprova a tese do projeto: **o pico de ger
 
 ---
 
-## 💡 Descrição da Solução
+##  Descrição da Solução
 
 Este projeto cumpre os requisitos **Opção A (Análise de Dados)** e **Opção C (Simulação)**.
 
@@ -29,14 +27,14 @@ A solução é um único script Python (`Gs sers principal.py`) que executa todo
 
 ---
 
-## ⚙️ Dados Utilizados
+##  Dados Utilizados
 
 * **Geração Solar (Fonte Real):** O arquivo `dados/geracao_solar_pvgis.csv` contém os dados de geração de um sistema de 10kWp em São Paulo, baixados da ferramenta [PVGIS da União Europeia](https://re.jrc.ec.europa.eu/pvg_tools/en/).
 * **Consumo (Fonte Simulada):** Os dados de consumo do escritório são gerados diretamente pelo script `Gs sers principal.py` para garantir que os anos correspondam.
 
 ---
 
-## 🚀 Orientações de Execução
+##  Orientações de Execução
 
 1.  **Clone o repositório:**
     ```bash
