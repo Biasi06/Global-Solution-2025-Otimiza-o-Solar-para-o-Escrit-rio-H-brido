@@ -19,7 +19,7 @@ A solução é um único script Python (`Gs sers principal.py`) que executa todo
 1.  **Simulação de Consumo:** O script primeiro gera internamente os dados de consumo de energia de um escritório para o ano de **2023**. Ele simula um padrão de "trabalho híbrido":
     * **Segundas e Sextas (Home Office):** Consumo baixo.
     * **Terças, Quartas e Quintas (Dias Presenciais):** Picos de consumo (ar-condicionado, luzes, etc.).
-2.  **Análise de Geração:** O script carrega os dados reais de geração solar para **2023** (do arquivo `dados/geracao_solar_pvgis.csv`).
+2.  **Análise de Geração:** O script carrega os dados reais de geração solar para **2023** (do arquivo `geracao_solar_pvgis.csv`).
 3.  **Cálculo e Análise:** Ele une os dados de consumo e geração (ambos de 2023) e calcula:
     * A economia financeira (R$)
     * A redução de emissão de CO2 (kg)
